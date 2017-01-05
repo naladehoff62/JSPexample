@@ -1,0 +1,26 @@
+body {
+    background-color: lightblue;
+}
+
+label { 
+    display: inline-block; 
+    width: 200px; 
+    text-align: left; 
+}
+
+table {
+    border: solid black;
+    height: 15px;
+    border-spacing: 10px 0;
+}
+
+tr {
+    font-size: 12px;
+    background-color: black; 
+    color: white;
+    border-bottom: 10px solid #797676;
+}
+
+td {
+    color: black;
+}
